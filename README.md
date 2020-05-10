@@ -1,4 +1,4 @@
 # belajar-git1
 
 
-tutorail cara masak nasi goreng pake rice cooker
+tutorial cara masak nasi goreng pake rice cooker
